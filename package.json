@@ -4,7 +4,7 @@
   "description": "依赖jQuery的七牛上传模块",
   "repository": {
   	"type": "git",
-  	"url": "git://github.com:riskers/qiniu_upload.git"
+  	"url": "https://github.com/riskers/qiniu_upload"
   },
   "homepage": "https://github.com/riskers/qiniu_upload",
   "dependencies": {
