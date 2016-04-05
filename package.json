@@ -1,14 +1,25 @@
 {
   "name": "qiniu_upload",
-  "version": "1.0.0",
-  "description": "qiniu upload",
+  "version": "1.0.1",
+  "description": "依赖jQuery的七牛上传模块",
+  "repository": {
+  	"type": "git",
+  	"url": "git://github.com:riskers/qiniu_upload.git"
+  },
+  "homepage": "https://github.com/riskers/qiniu_upload",
   "dependencies": {
     "jquery": "^2.0.0"
   },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
-  "author": "riskers",
+  "keywords":[
+  	"qiniu"
+  ],
+  "author": {
+  	"name": "riskers",
+  	"email": "gaoyibobobo@gmail.com"
+  },
   "license": "ISC"
 }
