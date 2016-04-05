@@ -1,6 +1,6 @@
 {
   "name": "qiniu_upload",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "依赖jQuery的七牛上传模块",
   "repository": {
   	"type": "git",

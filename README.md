@@ -6,6 +6,7 @@
 
 ```js
 var qiniuUpload = require('qiniu_upload')
+var $ = require('jquery')
 var url = 'token_url'
 
 $('.btn').change(function(){
