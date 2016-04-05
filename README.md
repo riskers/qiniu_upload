@@ -25,3 +25,9 @@ $('.btn').change(function(){
 * `file`: 文件
 * `url`: 获取 `token` 的接口
 
+# 安装
+
+```shell
+npm install qiniu_upload
+```
+
